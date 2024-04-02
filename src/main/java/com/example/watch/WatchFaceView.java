@@ -8,15 +8,12 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 
 import androidx.annotation.Nullable;
 
-import com.example.watch.utils.App;
 import com.example.watch.utils.SizeUtils;
 
-import java.time.LocalDateTime;
 import java.util.Calendar;
 import java.util.TimeZone;
 
