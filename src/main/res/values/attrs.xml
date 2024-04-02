@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 声明可样式化的 -->
+    <declare-styleable name="WatchFace">
+        <!-- 声明时针、分针、秒针、刻度的颜色等属性 -->
+        <attr name="secondColor" format="color"/>
+        <attr name="minColor" format="color"/>
+        <attr name="hourColor" format="color"/>
+        <attr name="scaleColor" format="color"/>
+        <attr name="watchFaceBackground" format="reference"/>
+        <!-- 是否显示刻度 -->
+        <attr name="scaleShow" format="boolean"/>
+    </declare-styleable>
+</resources>
+
+
+
